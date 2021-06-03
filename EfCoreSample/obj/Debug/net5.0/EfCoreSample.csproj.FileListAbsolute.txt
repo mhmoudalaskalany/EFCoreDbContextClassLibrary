@@ -1,0 +1,16 @@
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\bin\Debug\net5.0\EfCoreSample.exe
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\bin\Debug\net5.0\EfCoreSample.deps.json
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\bin\Debug\net5.0\EfCoreSample.runtimeconfig.json
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\bin\Debug\net5.0\EfCoreSample.runtimeconfig.dev.json
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\bin\Debug\net5.0\EfCoreSample.dll
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\bin\Debug\net5.0\ref\EfCoreSample.dll
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\bin\Debug\net5.0\EfCoreSample.pdb
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\obj\Debug\net5.0\EfCoreSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\obj\Debug\net5.0\EfCoreSample.AssemblyInfoInputs.cache
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\obj\Debug\net5.0\EfCoreSample.AssemblyInfo.cs
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\obj\Debug\net5.0\EfCoreSample.csproj.CoreCompileInputs.cache
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\obj\Debug\net5.0\EfCoreSample.dll
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\obj\Debug\net5.0\ref\EfCoreSample.dll
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\obj\Debug\net5.0\EfCoreSample.pdb
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\obj\Debug\net5.0\EfCoreSample.genruntimeconfig.cache
+C:\Users\m.ragab\source\repos\EfCoreSample\EfCoreSample\obj\Debug\net5.0\EfCoreSample.csprojAssemblyReference.cache
